@@ -1,0 +1,24 @@
+body{
+    margin:0;
+}
+#header>div>a{
+   /* float: right;*/
+    padding:10px 40px;
+    text-decoration: none;
+    color:Aquamarine;
+    font-size: 20px;
+}
+#headerL{
+    float: left;
+}
+#headerR{
+    float: right;
+}
+#main{
+clear:both;
+}
+#backGI{
+    height:797px;
+    background: url("image/1248sydney.jpg") no-repeat center;
+    opacity: 0.6;
+}
